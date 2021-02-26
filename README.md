@@ -5,3 +5,9 @@ Chages in the Directory of the file
 ## Purpose
 
 Sample website with plenty of files for demos
+
+# Started Web project
+
+# Introduction
+
+# GIT & GITHUB Project
