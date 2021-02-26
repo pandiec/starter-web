@@ -1,3 +1,4 @@
+adding for merging or rebasing remote repository
 Merging with Another branch after rebase
 Adding in Remote repository
 # Starter Web Repo
