@@ -1,6 +1,3 @@
-Making the trouble by updating from master branch
-
-Hi, this is pandiyan and modified the humans.txt file. 
 
 # humanstxt.org/
 # The humans responsible & technology colophon
