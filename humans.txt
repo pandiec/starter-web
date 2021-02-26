@@ -1,4 +1,3 @@
-Adding the content to check the merge conflicts
 
 # humanstxt.org/
 # The humans responsible & technology colophon
