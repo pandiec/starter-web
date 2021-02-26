@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- Pandiyan -- <twitter>
+	Pandiyan Mani
+	Devops Engineer
 
 # THANKS
 
