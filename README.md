@@ -17,3 +17,5 @@ Adding the content for checking the difference in Working and Staging Area
 # Comparing with GIT Repo
 
 Change in README 
+
+Changes for rebase option
